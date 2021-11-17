@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Alexandros Tsigonias-Dimitriadis</title>
-    <link>https://alextsigonias.github.io/publication/</link>
-      <atom:link href="https://alextsigonias.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>3 | Alexandros Tsigonias-Dimitriadis</title>
+    <link>https://alextsigonias.github.io/publication-type/3/</link>
+      <atom:link href="https://alextsigonias.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alextsigonias.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>https://alextsigonias.github.io/publication/</link>
+      <title>3</title>
+      <link>https://alextsigonias.github.io/publication-type/3/</link>
     </image>
     
     <item>
@@ -33,22 +33,6 @@
       <link>https://alextsigonias.github.io/publication/robust_revenue_working/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://alextsigonias.github.io/publication/robust_revenue_working/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Secretary Problem with Independent Sampling</title>
-      <link>https://alextsigonias.github.io/publication/secretary_soda/</link>
-      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/secretary_soda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust Revenue Maximization Under Minimal Statistical Information</title>
-      <link>https://alextsigonias.github.io/publication/robust_revenue/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/robust_revenue/</guid>
       <description></description>
     </item>
     
