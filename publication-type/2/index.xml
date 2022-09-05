@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Alexandros Tsigonias-Dimitriadis</title>
+    <link>https://alextsigonias.github.io/publication-type/2/</link>
+      <atom:link href="https://alextsigonias.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alextsigonias.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://alextsigonias.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Robust Revenue Maximization Under Minimal Statistical Information</title>
+      <link>https://alextsigonias.github.io/publication/robust_revenue_journal/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/robust_revenue_journal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
