@@ -5,7 +5,7 @@
     <link>https://alextsigonias.github.io/publication-type/3/</link>
       <atom:link href="https://alextsigonias.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alextsigonias.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>Prophet Inequalities via the Expected Competitive Ratio</title>
-      <link>https://alextsigonias.github.io/publication/secretary_working/</link>
-      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/secretary_working/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Secretary Problem with Independent Sampling</title>
       <link>https://alextsigonias.github.io/publication/prophets_working-copy/</link>
-      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://alextsigonias.github.io/publication/prophets_working-copy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Impact of Ordering on the Pandora&#39;s Box Problem</title>
-      <link>https://alextsigonias.github.io/publication/pandora_working/</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/pandora_working/</guid>
+      <title>Prophet Inequalities via the Expected Competitive Ratio</title>
+      <link>https://alextsigonias.github.io/publication/secretary_working/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/secretary_working/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Combinatorial Auctions: An Improved Approach using Reinforcement Learning</title>
+      <link>https://alextsigonias.github.io/publication/ica_working/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/ica_working/</guid>
       <description></description>
     </item>
     
