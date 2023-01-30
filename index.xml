@@ -33,6 +33,30 @@
     </item>
     
     <item>
+      <title>Political Apportionment: Ex-ante Proportionality and Monotonicity Through the Lens of Linear Programming</title>
+      <link>https://alextsigonias.github.io/publication/apportionment/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/apportionment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophet Secretary Against the Online Optimal</title>
+      <link>https://alextsigonias.github.io/publication/prophet_secr/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/prophet_secr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preference Elicitation in Combinatorial Domains: An Improved Approach using Reinforcement Learning</title>
+      <link>https://alextsigonias.github.io/publication/ica_working/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/ica_working/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Secretary Problem with Independent Sampling</title>
       <link>https://alextsigonias.github.io/publication/prophets_working-copy/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
@@ -45,14 +69,6 @@
       <link>https://alextsigonias.github.io/publication/secretary_working/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://alextsigonias.github.io/publication/secretary_working/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preference Elicitation in Combinatorial Domains: An Improved Approach using Reinforcement Learning</title>
-      <link>https://alextsigonias.github.io/publication/ica_working/</link>
-      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/ica_working/</guid>
       <description></description>
     </item>
     
