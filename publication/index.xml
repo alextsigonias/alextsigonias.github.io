@@ -5,12 +5,52 @@
     <link>https://alextsigonias.github.io/publication/</link>
       <atom:link href="https://alextsigonias.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alextsigonias.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://alextsigonias.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Prophet Inequalities via the Expected Competitive Ratio</title>
+      <link>https://alextsigonias.github.io/publication/secretary_working/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/secretary_working/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Apportionment: The Power of Divisor Methods and Randomization</title>
+      <link>https://alextsigonias.github.io/publication/apportionment/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/apportionment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Policies for Content Recommendation with Fairness Constraints</title>
+      <link>https://alextsigonias.github.io/publication/fairness_matching/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/fairness_matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Secretary Problem with Independent Sampling</title>
+      <link>https://alextsigonias.github.io/publication/prophets_working-copy/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/prophets_working-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophet Secretary Against the Online Optimal</title>
+      <link>https://alextsigonias.github.io/publication/prophet_secr_journal/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/prophet_secr_journal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prophet Secretary Against the Online Optimal</title>
@@ -25,30 +65,6 @@
       <link>https://alextsigonias.github.io/publication/ica_working/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://alextsigonias.github.io/publication/ica_working/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Political Apportionment: Ex-ante Proportionality and Monotonicity Through the Lens of Linear Programming</title>
-      <link>https://alextsigonias.github.io/publication/apportionment/</link>
-      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/apportionment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Secretary Problem with Independent Sampling</title>
-      <link>https://alextsigonias.github.io/publication/prophets_working-copy/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/prophets_working-copy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prophet Inequalities via the Expected Competitive Ratio</title>
-      <link>https://alextsigonias.github.io/publication/secretary_working/</link>
-      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/secretary_working/</guid>
       <description></description>
     </item>
     
