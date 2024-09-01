@@ -5,7 +5,7 @@
     <link>https://alextsigonias.github.io/publication-type/2/</link>
       <atom:link href="https://alextsigonias.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alextsigonias.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Prophet Secretary Against the Online Optimal</title>
+      <link>https://alextsigonias.github.io/publication/prophet_secr_journal/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/prophet_secr_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Secretary Problem with Independent Sampling</title>
       <link>https://alextsigonias.github.io/publication/prophets_working-copy/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://alextsigonias.github.io/publication/prophets_working-copy/</guid>
       <description></description>
     </item>
