@@ -5,7 +5,7 @@
     <link>https://alextsigonias.github.io/publication-type/3/</link>
       <atom:link href="https://alextsigonias.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alextsigonias.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
@@ -13,31 +13,15 @@
     </image>
     
     <item>
-      <title>Prophet Inequalities via the Expected Competitive Ratio</title>
-      <link>https://alextsigonias.github.io/publication/eor_journal/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/eor_journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New Combinatorial Insights for Monotone Apportionment</title>
-      <link>https://alextsigonias.github.io/publication/apportionment/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/apportionment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Online Policies for Content Recommendation with Fairness Constraints</title>
       <link>https://alextsigonias.github.io/publication/fairness_matching/</link>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
       <guid>https://alextsigonias.github.io/publication/fairness_matching/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Preference Elicitation in Combinatorial Domains: An Improved Approach using Reinforcement Learning</title>
+      <title>Preference Elicitation in Combinatorial Auctions: An Improved Approach using Reinforcement Learning</title>
       <link>https://alextsigonias.github.io/publication/ica_working/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://alextsigonias.github.io/publication/ica_working/</guid>

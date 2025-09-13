@@ -5,12 +5,20 @@
     <link>https://alextsigonias.github.io/publication-type/1/</link>
       <atom:link href="https://alextsigonias.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alextsigonias.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://alextsigonias.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>New Combinatorial Insights for Monotone Apportionment</title>
+      <link>https://alextsigonias.github.io/publication/apportionment_conf/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/apportionment_conf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prophet Inequalities via the Expected Competitive Ratio</title>

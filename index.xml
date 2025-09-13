@@ -5,7 +5,7 @@
     <link>https://alextsigonias.github.io/</link>
       <atom:link href="https://alextsigonias.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandros Tsigonias-Dimitriadis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alextsigonias.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Alexandros Tsigonias-Dimitriadis</title>
@@ -13,42 +13,50 @@
     </image>
     
     <item>
-      <title>Prophet Inequalities via the Expected Competitive Ratio</title>
-      <link>https://alextsigonias.github.io/publication/eor_journal/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/eor_journal/</guid>
+      <title>New Combinatorial Insights for Monotone Apportionment</title>
+      <link>https://alextsigonias.github.io/publication/apportionment_journal/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/apportionment_journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prophet Secretary Against the Online Optimal</title>
       <link>https://alextsigonias.github.io/publication/prophet_secr_journal/</link>
-      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://alextsigonias.github.io/publication/prophet_secr_journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New Combinatorial Insights for Monotone Apportionment</title>
-      <link>https://alextsigonias.github.io/publication/apportionment/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/apportionment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Secretary Problem with Independent Sampling</title>
-      <link>https://alextsigonias.github.io/publication/prophets_working-copy/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://alextsigonias.github.io/publication/prophets_working-copy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Policies for Content Recommendation with Fairness Constraints</title>
       <link>https://alextsigonias.github.io/publication/fairness_matching/</link>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
       <guid>https://alextsigonias.github.io/publication/fairness_matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Secretary Problem with Independent Sampling</title>
+      <link>https://alextsigonias.github.io/publication/prophets_working-copy/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/prophets_working-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophet Inequalities via the Expected Competitive Ratio</title>
+      <link>https://alextsigonias.github.io/publication/eor_journal/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/eor_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Combinatorial Insights for Monotone Apportionment</title>
+      <link>https://alextsigonias.github.io/publication/apportionment_conf/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://alextsigonias.github.io/publication/apportionment_conf/</guid>
       <description></description>
     </item>
     
@@ -69,7 +77,7 @@
     </item>
     
     <item>
-      <title>Preference Elicitation in Combinatorial Domains: An Improved Approach using Reinforcement Learning</title>
+      <title>Preference Elicitation in Combinatorial Auctions: An Improved Approach using Reinforcement Learning</title>
       <link>https://alextsigonias.github.io/publication/ica_working/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://alextsigonias.github.io/publication/ica_working/</guid>
